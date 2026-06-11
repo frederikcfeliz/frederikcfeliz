@@ -29,5 +29,5 @@
 
 # ✔ Github Activity
 <a href="https://github.com/frederikcfeliz">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederikcfeliz&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederikcfeliz&layout=compact&theme=transparent" />
   </a>
