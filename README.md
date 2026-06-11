@@ -5,12 +5,16 @@
 
 
 # <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<br>
-💡 &nbsp;I like to explore and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software Development at the ITSC of San Luis. Domincan Republic.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I enjoy running and going to the gym as a hobby.\
-✉️ &nbsp;You can shoot me an email at frederikc.17@gmail.com! I'll try to respond as soon as I can.\
+
+💡I like to explore and develop software solutions and quick hacks.
+
+🎓I'm currently studying Software Development at the ITSC of San Luis. Domincan Republic.
+
+🌱I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+
+✍️In my free time, I enjoy running and going to the gym as a hobby.
+
+✉️You can shoot me an email at frederikc.17@gmail.com! I'll try to respond as soon as I can.
 <br>
 
 
