@@ -27,7 +27,7 @@
   </a>
 </p>
 
-# Github Activity ✔:
+# ✔ Github Activity
 <a href="https://github.com/frederikcfeliz">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederikcfeliz&layout=compact" />
   </a>
