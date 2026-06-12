@@ -36,6 +36,8 @@
 
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=frederikcfeliz&&style=flat-square" align="center" />
-</div>  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=frederikcfeliz" alt="frederikcfeliz" />
+    <a href="https://github.com/frederikcfeliz/"><img src="https://img.shields.io/github/followers/frederikcfeliz?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/frederikcfeliz/"><img src="https://img.shields.io/github/last-commit/frederikcfeliz/frederikcfeliz?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
