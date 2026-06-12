@@ -33,3 +33,9 @@
 <a href="https://github.com/frederikcfeliz">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederikcfeliz&layout=donut" />
   </a>
+
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=frederikcfeliz&&style=flat-square" align="center" />
+</div>  
